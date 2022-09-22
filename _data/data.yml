@@ -67,8 +67,13 @@ education:
       university: Mills College (Oakland, CA)
       time: 2010 - 2012
 experiences:
-    - role: On a much-needed career hiatus!
-      time: March 2022 - present
+    - role: Software Engineer (contract)
+      time: August 2022 - November 2022
+      company: Democratic National Committee
+      details: |
+        Ramped up quickly on a legacy Python codebase to ship a new tool that will save state election volunteer hundreds of hours during the 2022 midterms.
+    - role: Career Hiatus
+      time: March 2022 - August 2022
       company:
       details: |
         After 6 years of non-stop work as a software engineer — two of which
