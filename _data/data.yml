@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Erin Allard
-    tagline: Software Engineer. she/her. I go by "August".
+    tagline: Sr. Support Engineer. she/her. I go by "August".
     avatar: erin_august_profile_photo.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -51,7 +51,7 @@ sidebar:
 career-profile:
     title: Here's what I'd add to your team
     summary: |
-      I'm an experienced Python developer with well-practiced skills in both written and verbal technical communication.
+      I'm a senior-level Support Engineer and an experienced Python developer with well-practiced skills in both written and verbal technical communication.
       I'm a huge fan of being kind to one's future self so I'm the person on your team who is constantly asking,
       "Did you add that to the docs?" I'm also a teammate who leads with emotional intelligence and empathy -- always.
       I love figuring out how all the parts of a system fit together, and how systems then interact with each other.
@@ -73,11 +73,10 @@ experiences:
       details: |
         Interrupted my 1-year career break (see below) to lend a hand to the Democratic campaigns in the 2022 election cycle. Ramped up quickly on a legacy Python codebase to ship a new tool that will save state election volunteers thousands of hours during the 2022 midterms.
     - role: Career Break
-      time: March 2022 - August 2023
+      time: March 2022 - March 2023
       company:
       details: |
-        After 6 years of non-stop work as a software engineer — two of which
-        occurred during a global pandemic – I took a year off to pursue my lifelong dream of building a homestead and growing my own food.
+        After 6 years of non-stop work in technical roles — and 2 years of a global pandemic – I took a year off to pursue my lifelong dream of building a homestead and growing my own food.
     - role: Software Engineer for Technical Content (Python)
       time: May 2021 - March 2022
       company: Twilio - Remote in USA
@@ -97,7 +96,7 @@ experiences:
           - Heroku Dev Center: [Scheduling Custom Django Management Commands](https://devcenter.heroku.com/articles/scheduling-custom-django-management-commands)
           - Heroku podcast host: [Episode #60: From Engineer to Entrepreneur](https://www.heroku.com/podcasts/codeish/60-from-engineer-to-entrepreneur)
     - role: Software Engineering Instructor (contract)
-      time: April 2018 - April 2019
+      time: April 2018 - Present
       company: LinkedIn Learning - Carpinteria, CA
       details: |
         Designed, developed and delivered software engineering curriculum for 3 courses in LinkedIn Learning's Python track:
