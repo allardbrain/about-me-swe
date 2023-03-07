@@ -39,17 +39,17 @@ sidebar:
       - item: Woodworking
         link:
 
-      - item: Furniture Restoration
+      - item: Tennis
         link:
 
-      - item: Gardens & botanical art
+      - item: Veggie gardening
         link:
         
       - item: Chillstep, Chillhop, Lo-fi
         link:
 
 career-profile:
-    title: Here's what I'd add to your engineering team
+    title: Here's what I'd add to your team
     summary: |
       I'm an experienced Python developer with well-practiced skills in both written and verbal technical communication.
       I'm a huge fan of being kind to one's future self so I'm the person on your team who is constantly asking,
@@ -71,16 +71,13 @@ experiences:
       time: August 2022 - November 2022
       company: Democratic National Committee
       details: |
-        Ramped up quickly on a legacy Python codebase to ship a new tool that will save state election volunteers hundreds of hours during the 2022 midterms.
-    - role: Career Hiatus
-      time: March 2022 - August 2022
+        Interrupted my 1-year career break (see below) to lend a hand to the Democratic campaigns in the 2022 election cycle. Ramped up quickly on a legacy Python codebase to ship a new tool that will save state election volunteers thousands of hours during the 2022 midterms.
+    - role: Career Break
+      time: March 2022 - August 2023
       company:
       details: |
         After 6 years of non-stop work as a software engineer — two of which
-        occurred during a global pandemic – I decided to take a much-needed break and re-focus my career goals.
-        I've decided that for my next job, I want to return to writing code most of the day. For the past couple of years, I've created technical content and
-        provided engineering support, and I really miss being on an engineering team. During my break, I've been renovating my house, planting a giant flower garden, and
-        slowly putting together a furniture-making shop in my garage. 
+        occurred during a global pandemic – I took a year off to pursue my lifelong dream of building a homestead and growing my own food.
     - role: Software Engineer for Technical Content (Python)
       time: May 2021 - March 2022
       company: Twilio - Remote in USA
@@ -175,28 +172,22 @@ skills:
 
     toolset:
       - name: Python
-        level: 85%
+        level: 75%
 
       - name: Django
-        level: 75%
+        level: 65%
         
       - name: Flask
-        level: 75%
+        level: 55%
         
       - name: Heroku
         level: 75%
         
       - name: Postgres
-        level: 65%
+        level: 55%
           
       - name: MQL4 & MetaTrader4
         level: 65%
-        
-      - name: Commercial real estate investment
-        level: 100%
-        
-      - name: Economics
-        level: 75%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
