@@ -51,10 +51,8 @@ sidebar:
 career-profile:
     title: Here's what I'd add to your team
     summary: |
-      I'm a Sr. Support Engineer and with well-practiced skills in both written and verbal technical communication.
-      I'm a huge fan of being kind to one's future self so I'm the person on your team who is constantly asking,
-      "Did you add that to the docs?" I'm also a teammate who leads with emotional intelligence and empathy -- always.
-      I love figuring out how all the parts of a system fit together, and how systems then interact with each other.
+      I'm a Sr. Developer Support Engineer with well-practiced skills in both written and verbal technical communication.
+      I love supporting users of developer tools! I value colleagues who lead with empathy and intelligence, and I strive to do the same.
       
 education:
     - degree: Software Engineering
@@ -67,6 +65,11 @@ education:
       university: Mills College (Oakland, CA)
       time: 2010 - 2012
 experiences:
+    - role: Software Engineering Instructor (contract)
+      time: May 2023 - November 2023
+      company: Masterschool
+      details: |
+        Taught fundamentals of Python, APIs and web development to 80+ adults changing their careers. Delivered original, weekly live sessions on various technology concepts. Mentored students through interview preparations.
     - role: Software Engineer (contract)
       time: August 2022 - November 2022
       company: Democratic National Committee
@@ -151,6 +154,11 @@ publications:
     intro: |
       I'm grateful to have had the opportunity to share my knowledge and expertise with a wide audience.
     papers:
+      - title: Make Your Engineering Team A Fabulous Place for Programmers with ADHD and Autism
+        link: "https://www.youtube.com/watch?v=z0ZzCvTFzms"
+        # authors: Erin Allard
+        conference: Conference talk at NorthBay Python 2023 in Petaluma, CA
+      
       - title: Ace Your Technical Interview Using Python
         link: "https://youtu.be/NltGUUi23zc"
         # authors: Erin Allard
@@ -160,11 +168,6 @@ publications:
         link: "https://youtu.be/i_w7F-Ip2VE"
         # authors: Erin Allard
         conference: Conference talk at PyBay 2018 in San Francisco, CA
-      
-      - title: Django Dashboard Walkthrough
-        link: "https://www.youtube.com/watch?v=K3Qnlqvajww"
-        # authors: Erin Allard
-        conference: This video was for an interview in 2017. Over the years it's amassed more than 5,000 views!
 
 skills:
     title: Skills &amp; Proficiency
