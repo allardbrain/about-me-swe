@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Erin Allard
-    tagline: Sr. Developer Support Engineer. she/her. I go by "August".
+    tagline: Backend Software Engineer. she/her. I go by "August".
     avatar: erin_august_profile_photo.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -16,7 +16,7 @@ sidebar:
     # phone: 012 345 6789
     # citizenship:
     # website: blog.webjeda.com #do not add http://
-    linkedin: erinallard1
+    # linkedin: erinallard1
     # xing: alandoe
     github: allardbrain
     # telegram: # add your nickname without '@' sign
@@ -51,8 +51,9 @@ sidebar:
 career-profile:
     title: Here's what I'd add to your team
     summary: |
-      I'm a Sr. Developer Support Engineer with well-practiced skills in both written and verbal technical communication.
-      I love supporting users of developer tools! I value colleagues who lead with empathy and intelligence, and I strive to do the same.
+      I'm a Backend Software Engineer with well-practiced skills in both written and verbal technical communication.
+      I'm an experienced Python developer, SWE instructor, and conference speaker.
+      I value colleagues who lead with empathy and intelligence, and I strive to do the same.
       
 education:
     - degree: Software Engineering
@@ -65,16 +66,16 @@ education:
       university: Mills College (Oakland, CA)
       time: 2010 - 2012
 experiences:
-    - role: Software Engineering Instructor (contract)
+    - role: Backend Software Engineering Instructor (contract)
       time: May 2023 - November 2023
       company: Masterschool
       details: |
         Taught fundamentals of Python, APIs and web development to 80+ adults changing their careers. Delivered original, weekly live sessions on various technology concepts. Mentored students through interview preparations.
-    - role: Software Engineer (contract)
+    - role: Backend Software Engineer (contract)
       time: August 2022 - November 2022
       company: Democratic National Committee
       details: |
-        Interrupted my 1-year career break (see below) to lend a hand to the Democratic campaigns in the 2022 election cycle. Ramped up quickly on a legacy Python codebase to ship a new tool that will save state election volunteers thousands of hours during the 2022 midterms.
+        Interrupted my 1-year career break (see below) to lend a hand to the Democratic campaigns in the 2022 election cycle. Ramped up quickly on a legacy Python (Django) codebase to ship a new tool that will save state election volunteers thousands of hours during the 2022 midterms.
     - role: Career Break
       time: March 2022 - March 2023
       company:
@@ -98,15 +99,15 @@ experiences:
         Established and socialized process improvements within the team to ensure common customer issues were documented and mitigated effectively. Other contributions:
           - Heroku Dev Center: [Scheduling Custom Django Management Commands](https://devcenter.heroku.com/articles/scheduling-custom-django-management-commands)
           - Heroku podcast host: [Episode #60: From Engineer to Entrepreneur](https://www.heroku.com/podcasts/codeish/60-from-engineer-to-entrepreneur)
-    - role: Software Engineering Instructor (contract)
+    - role: Backend Software Engineering Instructor (contract)
       time: April 2018 - Present
       company: LinkedIn Learning - Carpinteria, CA
       details: |
         Designed, developed and delivered software engineering curriculum for 3 courses in LinkedIn Learning's Python track:
-          - [Python Data Structures: Stacks, Queues and Deques](https://www.linkedin.com/learning/python-data-structures-stacks-queues-and-deques) (~82,000 students and 4.7/5 stars)
-          - [Python Data Structures: Linked Lists](https://www.linkedin.com/learning/python-data-structures-linked-lists) (~16,000 students and 4.8/5 stars)
           - [Nail Your Python Interview](https://www.linkedin.com/learning/nail-your-python-interview) (~45,000 students and 4.6/5 stars)
-    - role: Software Engineer
+          - [Python Data Structures: Stacks, Queues and Deques](https://www.linkedin.com/learning/python-data-structures-stacks-queues-and-deques) (Stats before deprecation: ~82,000 students and 4.7/5 stars)
+          - [Python Data Structures: Linked Lists](https://www.linkedin.com/learning/python-data-structures-linked-lists) (Stats before deprecation: ~16,000 students and 4.8/5 stars)
+    - role: Backend Software Engineer
       time: January 2018 - April 2019
       company: Numerator - San Francisco, CA
       details: |
@@ -133,6 +134,10 @@ projects:
     intro: >
       I love building my own automated & algorithmic trading apps in my spare time, as well as tinkering with microcomputers and IoT devices.
     assignments:
+      - title: Coffee's Ready! (2022)
+        link:
+        tagline: "A waterproof, high-temperature heat sensor sends you an SMS message via a RaspberryPi and the Twilio API when your coffee is a drinkable temperature."
+
       - title: FOREX Manager (2021)
         link: 
         tagline: "A custom API built with the Django REST Framework to integrate with MetaTrader4 for foreign exchange (currency) trade outcome analysis."
@@ -140,10 +145,6 @@ projects:
       - title: LendingClub Bot (2019)
         link: 
         tagline: "Automate buying notes on LendingClub's secondary market with a Python app deployed to Heroku."
-
-      - title: Coffee's Ready! (2022)
-        link:
-        tagline: "A waterproof, high-temperature heat sensor sends you an SMS message via a RaspberryPi and the Twilio API when your coffee is a drinkable temperature."
 
       - title: LED Rainbow Hearts (2017)
         link:
@@ -169,27 +170,27 @@ publications:
         # authors: Erin Allard
         conference: Conference talk at PyBay 2018 in San Francisco, CA
 
-skills:
-    title: Skills &amp; Proficiency
+# skills:
+#     title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Python
-        level: 75%
+#     toolset:
+#       - name: Python
+#         level: 75%
 
-      - name: Django
-        level: 65%
+#       - name: Django
+#         level: 65%
         
-      - name: Flask
-        level: 55%
+#       - name: Flask
+#         level: 55%
         
-      - name: Heroku
-        level: 75%
+#       - name: Heroku
+#         level: 75%
         
-      - name: Postgres
-        level: 55%
+#       - name: Postgres
+#         level: 55%
           
-      - name: MQL4 & MetaTrader4
-        level: 65%
+#       - name: MQL4 & MetaTrader4
+#         level: 65%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
