@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Erin Allard
-    tagline: Backend Software Engineer. she/her. I go by "August".
+    tagline: Senior Support Engineer
     avatar: erin_august_profile_photo.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -16,7 +16,7 @@ sidebar:
     # phone: 012 345 6789
     # citizenship:
     # website: blog.webjeda.com #do not add http://
-    # linkedin: erinallard1
+    linkedin: erinallard1
     # xing: alandoe
     github: allardbrain
     # telegram: # add your nickname without '@' sign
@@ -51,9 +51,8 @@ sidebar:
 career-profile:
     title: Here's what I'd add to your team
     summary: |
-      I'm a Backend Software Engineer with well-practiced skills in both written and verbal technical communication.
-      I'm an experienced Python developer, SWE instructor, and conference speaker.
-      I value colleagues who lead with empathy and intelligence, and I strive to do the same.
+      I'm a Senior Support Engineer with well-practiced skills in both written and verbal technical communication.
+      I love supporting users of developer tools! I value colleagues who lead with empathy and intelligence, and I strive to do the same.
       
 education:
     - degree: Software Engineering
@@ -61,10 +60,10 @@ education:
       time: Jan 2016 - March 2016
     - degree: MS International Real Estate
       university: Florida International Univ. (Miami, FL)
-      time: 2012 - 2013
+      # time: 2012 - 2013
     - degree: BA Economics
       university: Mills College (Oakland, CA)
-      time: 2010 - 2012
+      # time: 2010 - 2012
 experiences:
     - role: Backend Software Engineering Instructor (contract)
       time: May 2023 - November 2023
@@ -75,19 +74,19 @@ experiences:
       time: August 2022 - November 2022
       company: Democratic National Committee
       details: |
-        Interrupted my 1-year career break (see below) to lend a hand to the Democratic campaigns in the 2022 election cycle. Ramped up quickly on a legacy Python (Django) codebase to ship a new tool that will save state election volunteers thousands of hours during the 2022 midterms.
+        Interrupted my 1-year career break (see below) to lend a hand to the Democratic campaigns in the 2022 election cycle. Ramped up quickly on a legacy Python codebase to ship a new tool that will save state election volunteers thousands of hours during the 2022 midterms.
     - role: Career Break
       time: March 2022 - March 2023
       company:
       details: |
         After 6 years of non-stop work in technical roles — and 2 years of a global pandemic – I took a year off to pursue my lifelong dream of building a homestead and growing my own food.
-    - role: Software Engineer for Technical Content (Python)
+    - role: Technical Writer and Editor, Python Content
       time: May 2021 - March 2022
       company: Twilio - Remote in USA
       details: |
         Contributed original, code-heavy technical tutorials that use Python frameworks to
         interact with Twilio's APIs, and provided technical editing to external 
-        Python contributors approved to write for the Twilio blog. Selected highlights:
+        Python contributors approved to write for the Twilio blog. Touched 25+ articles during my tenure. Selected highlights:
           - [Expose a Local Django Server to the Internet Using ngrok](https://www.twilio.com/blog/expose-local-django-server-to-internet-using-ngrok) (author)
           - [Create Secret Santa Matches using Python Flask and Twilio SMS](https://www.twilio.com/blog/secret-santa-matches-python-flask-twilio-sms) (author)
           - [Create A Cold War-Era Numbers Station with Twilio Voice and Python Flask](https://www.twilio.com/blog/cold-war-numbers-station-twilio-voice-python-flask) (editor)
@@ -95,7 +94,7 @@ experiences:
       time: April 2019 - April 2021
       company: Heroku - Remote in USA
       details: |
-        Offered engineering support to customers deploying a wide range of tech stacks and databases on Heroku.
+        Offered engineering support to 1,000+ of developers deploying a wide range of tech stacks and databases on Heroku.
         Established and socialized process improvements within the team to ensure common customer issues were documented and mitigated effectively. Other contributions:
           - Heroku Dev Center: [Scheduling Custom Django Management Commands](https://devcenter.heroku.com/articles/scheduling-custom-django-management-commands)
           - Heroku podcast host: [Episode #60: From Engineer to Entrepreneur](https://www.heroku.com/podcasts/codeish/60-from-engineer-to-entrepreneur)
@@ -104,9 +103,9 @@ experiences:
       company: LinkedIn Learning - Carpinteria, CA
       details: |
         Designed, developed and delivered software engineering curriculum for 3 courses in LinkedIn Learning's Python track:
-          - [Nail Your Python Interview](https://www.linkedin.com/learning/nail-your-python-interview) (~45,000 students and 4.6/5 stars)
-          - [Python Data Structures: Stacks, Queues and Deques](https://www.linkedin.com/learning/python-data-structures-stacks-queues-and-deques) (Stats before deprecation: ~82,000 students and 4.7/5 stars)
-          - [Python Data Structures: Linked Lists](https://www.linkedin.com/learning/python-data-structures-linked-lists) (Stats before deprecation: ~16,000 students and 4.8/5 stars)
+          - [Python Data Structures: Stacks, Queues and Deques](https://www.linkedin.com/learning/python-data-structures-stacks-queues-and-deques) (~82,000 students and 4.7/5 stars)
+          - [Python Data Structures: Linked Lists](https://www.linkedin.com/learning/python-data-structures-linked-lists) (~24,000 students and 4.7/5 stars)
+          - [Nail Your Python Interview](https://www.linkedin.com/learning/nail-your-python-interview) (~53,000 students and 4.6/5 stars)
     - role: Backend Software Engineer
       time: January 2018 - April 2019
       company: Numerator - San Francisco, CA
@@ -137,7 +136,7 @@ projects:
       - title: Coffee's Ready! (2022)
         link:
         tagline: "A waterproof, high-temperature heat sensor sends you an SMS message via a RaspberryPi and the Twilio API when your coffee is a drinkable temperature."
-
+      
       - title: FOREX Manager (2021)
         link: 
         tagline: "A custom API built with the Django REST Framework to integrate with MetaTrader4 for foreign exchange (currency) trade outcome analysis."
@@ -155,6 +154,11 @@ publications:
     intro: |
       I'm grateful to have had the opportunity to share my knowledge and expertise with a wide audience.
     papers:
+      - title: 13 Fun Facts About Python's return Statement for Savvy Programmers
+        # link: "https://www.youtube.com/watch?v=z0ZzCvTFzms"
+        # authors: Erin Allard
+        conference: (Forthcoming) Conference talk at PyBay 2024 in San Francisco, CA
+        
       - title: Make Your Engineering Team A Fabulous Place for Programmers with ADHD and Autism
         link: "https://www.youtube.com/watch?v=z0ZzCvTFzms"
         # authors: Erin Allard
@@ -170,27 +174,27 @@ publications:
         # authors: Erin Allard
         conference: Conference talk at PyBay 2018 in San Francisco, CA
 
-# skills:
-#     title: Skills &amp; Proficiency
+skills:
+    title: Skills &amp; Proficiency
 
-#     toolset:
-#       - name: Python
-#         level: 75%
+    toolset:
+      - name: Python
+        level: 75%
 
-#       - name: Django
-#         level: 65%
+      - name: Django
+        level: 65%
         
-#       - name: Flask
-#         level: 55%
+      - name: Flask
+        level: 55%
         
-#       - name: Heroku
-#         level: 75%
+      - name: Heroku
+        level: 75%
         
-#       - name: Postgres
-#         level: 55%
+      - name: Postgres
+        level: 55%
           
-#       - name: MQL4 & MetaTrader4
-#         level: 65%
+      - name: MQL4 & MetaTrader4
+        level: 65%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
